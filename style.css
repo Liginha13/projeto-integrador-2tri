@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(89, 43, 132);
+    background-color: rgb(71, 30, 109);
 }
 
 .cartao{
@@ -28,6 +28,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100hv;
+    background-color: rgb(117, 79, 153);
 }
 
 main{
@@ -40,6 +41,13 @@ main{
 }
 
 h1{
+    color: #fff;
+    font-size: 28px;
+}
+
+footer{
+    background-color: rgb(71, 33, 106);
+    padding: 15px 25px;
     color: #fff;
 }
 
