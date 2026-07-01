@@ -17,11 +17,11 @@
 }
 
 .cartao-frente, .cartao-verso{
-    width :100%; 
+    width: 100%; 
 }
 
 .cartao-imagem{
-    width :100%;
+    width: 100%;
 }
 
 body{
@@ -35,7 +35,12 @@ main{
 }
 
 .cabecalho-link{
-    color:#fff;
+    color: #fff;
+    text-decoration: none;
+}
+
+h1{
+    color: #fff;
 }
 
 
