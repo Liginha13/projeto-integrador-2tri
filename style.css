@@ -55,7 +55,7 @@ footer{
     position: relative;
 }
 
-.cartao-frente, .cartso-verso{
+.cartao-frente, .cartao-verso{
     position: absolute;
 }
 
