@@ -51,4 +51,11 @@ footer{
     color: #fff;
 }
 
+.cartao-interno{
+    position: relative;
+}
+
+.cartao-frente, .cartso-verso{
+    position: absolute;
+}
 
